@@ -41,6 +41,7 @@ public class SampleTest extends Base{
 		driver.findElement(By.xpath("//input[@id='userEmail']")).sendKeys("Arun@gmail.com");
 		driver.findElement(By.xpath("//input[@id='userPassword']")).sendKeys("natika");
 		driver.findElement(By.xpath("//input[@id='login']")).click();
+		System.out.println("Hello FaceBook");
 	}
 
 }
