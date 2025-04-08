@@ -7,6 +7,6 @@ public class Arun {
 void arun() {
 	System.out.println("Hello Arun");
 	System.out.println("Hello Natikar");
-	System.out.println("Yes done done done!");
+	
 }
 }
